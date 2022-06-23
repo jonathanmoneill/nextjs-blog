@@ -23,7 +23,7 @@ export default function Home({
       <section className={utilStyles.headingMd}>
         <p>I'm a lyrical wordsmith. I'm the voice of a generation, mother-lover</p>
         <p>
-          (This is a sample website - you’ll be building a site like this in{' '}
+          (This is a TypeScript compliant sample website, built in{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
         </p>
       </section>
